@@ -25,7 +25,7 @@ author:
   avatar           : "profile1.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Niagara Aerospace Museum"
   employer         : "Red Brick University"
   uri              : # URL
